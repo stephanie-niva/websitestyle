@@ -1,0 +1,42 @@
+.shoe.wewbsite{
+    border-left: 0 auto;
+    background-color: aqua;
+
+}
+.image1{
+    position: relative
+    
+
+}
+.image.text{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+
+}
+.nav.bar{
+    display: flex;
+    background-color: black;
+    height: 100px;
+    padding: 0px 30px;
+    margin: 0 auto;
+    gap: 20px;
+
+}
+.main.image{
+    width: 80%px;
+    padding: 5px 20px 30px 50px;
+    height: 100px;
+}
+.paragraph2{
+    display: flex;
+}
+.shoe.box2{
+    display: flex;
+}
+#footer{
+    background-color: aqua;
+}
